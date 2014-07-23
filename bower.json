@@ -1,0 +1,7 @@
+{
+    "name": "mean",
+    "version": "0.3.3",
+    "dependencies": {
+        "Jcrop": "https://github.com/tapmodo/Jcrop.git"
+    }
+}

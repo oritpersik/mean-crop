@@ -1,0 +1,26 @@
+{
+  "name": "mean-crop",
+  "version": "0.0.1",
+  "description": "Some description of mean-crop",
+  "author": {
+    "name": "mean scaffold"
+  },
+  "mean": "0.4.0",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "scripts": {
+    "postinstall": "node ../../node_modules/bower/bin/bower install"
+  },
+  "dependencies": {
+    "gm": "1.16.0"
+  },
+  "license": "MIT",
+  "readme": "README: meanCrop\nNot ready to be used!!!\n",
+  "readmeFilename": "README.md",
+  "_id": "mean-crop@0.0.1",
+  "_shasum": "13ae5003f82b5ed616002c99ea8cc89d966680b5",
+  "_from": "https://github.com/linnovate/mean-crop/tarball/master",
+  "_resolved": "https://github.com/linnovate/mean-crop/tarball/master"
+}
